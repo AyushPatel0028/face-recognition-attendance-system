@@ -71,6 +71,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [your email address].
+If you have any questions or suggestions, feel free to reach out to me at ayushpatel2808@gmail.com.
 
 
