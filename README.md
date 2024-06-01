@@ -45,10 +45,18 @@ This repository contains a Face Recognition Attendance System that leverages the
 
 
 ## Screenshots
-![Screenshot (58)](https://github.com/AyushPatel0028/face-recognition-attendance-system/assets/149039733/e1e3792f-d5bb-41ea-b232-7b19eab5905b)
 
+### Add Faces
 
-![Screenshot (60)](https://github.com/AyushPatel0028/face-recognition-attendance-system/assets/149039733/96f5893d-4564-4ba6-9f92-eb903de40852)
+<img src="https://github.com/AyushPatel0028/face-recognition-attendance-system/assets/149039733/21b31c84-dff4-4a22-96ca-aaf04f425ef6" alt="Description" width="500" height="300">
+
+### At the time of attendance
+
+<img src="https://github.com/AyushPatel0028/face-recognition-attendance-system/assets/149039733/d9bf0a79-e4d9-4fd6-9ee4-c0e1af068566" alt="Description" width="500" height="300">
+
+### Web App
+
+<img src="https://github.com/AyushPatel0028/face-recognition-attendance-system/assets/149039733/d34cbef4-76ae-489a-b5e2-4c8c91ea64bb" alt="Description" width="500" height="300">
 
 
 ## Contributing
@@ -64,10 +72,6 @@ This repository contains a Face Recognition Attendance System that leverages the
 * Push to the branch (git push origin feature-branch).
 
 * Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
